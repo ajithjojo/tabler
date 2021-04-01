@@ -123,7 +123,7 @@
     "countup.js": "^2.0.5",
     "daterangepicker": "^3.0.5",
     "flatpickr": "^4.6.3",
-    "fullcalendar": "^3.10.1",
+    "fullcalendar": "^5.6.0",
     "imask": "^6.0.3",
     "jquery": "^3.5.0",
     "jqvmap": "^1.5.1",
